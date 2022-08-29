@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-consuming-github-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaFreitasNog/nodejs-consuming-github-api.git"
+  },
+  "author": "Raphael Freitas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaFreitasNog/nodejs-consuming-github-api/issues"
+  },
+  "homepage": "https://github.com/RafaFreitasNog/nodejs-consuming-github-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
